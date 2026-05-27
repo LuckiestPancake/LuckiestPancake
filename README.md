@@ -6,7 +6,7 @@ I'm now currently 16 years old, I code in python, (HTML / CSS / JS), and Rust!
 
 In the past I have used lua as well for small game projects in Love2D and I've also used a little C/C++ while making small game projects in Raylib I stopped using C/C++ because I really hated working in it comparibly to other languages.
 
-For my operating system I duel-boot windows 11 and arch linux.
+For my operating system I duel-boot windows 11 and arch linux and uhm last thing to write here why did I choose LuckiestPancake as my name well I had a friend named charm and wanted a name that sounded like that and landed on lucky and was eating a pancake in the morning and it hit me LuckiestPancake lol
 
 <!--
 **Kyo224/Kyo224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
