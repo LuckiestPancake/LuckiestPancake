@@ -2,7 +2,7 @@
 
 My name is jacob and since I was 10 years old I been coding stuff
 
-I'm now currently 16 years old, I code in python, (HTML / CSS / JS), and Rust!
+I'm 16 years old and primarily develop websites and web applications using PHP, JavaScript, HTML, CSS, and Python.
 
 In the past I have used lua as well for small game projects in Love2D and I've also used a little C/C++ while making small game projects in Raylib I stopped using C/C++ because I really hated working in it comparibly to other languages.
 
